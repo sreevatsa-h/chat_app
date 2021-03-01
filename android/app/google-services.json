@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "167917292496",
+    "firebase_url": "https://sreevatsa-website.firebaseio.com",
+    "project_id": "sreevatsa-website",
+    "storage_bucket": "sreevatsa-website.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167917292496:android:69cda6945d0f43f0a8c7d5",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167917292496-0n1ecjsmm2s5r0ptbtqfq1v4fectcd2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr6rAlIHI8XaZNWHmZCxun91pQnU0O8gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167917292496-0n1ecjsmm2s5r0ptbtqfq1v4fectcd2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
